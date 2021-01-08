@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357043787801",
+    "project_id": "tam-project-fc22b",
+    "storage_bucket": "tam-project-fc22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357043787801:android:4b2ff6d054d13cbe3b7288",
+        "android_client_info": {
+          "package_name": "com.cryptoanalyser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357043787801-nkqq1p0vcog7fjch79jgqtkq9cto94b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaTFlblnC8_GtqXpf4UsUDkYr1TILXz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357043787801-nkqq1p0vcog7fjch79jgqtkq9cto94b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "nomics": {
+    "api": "https://api.nomics.com/v1/",
+    "key": "e2baf0f4c5c9ec837a262dcb34fe7d24"
+  },
+  "lunarCrush":{
+    "api": "https://api.lunarcrush.com/v2?",
+    "key": "ps3it4jhoysedjtadhv4aa"
+  },
+  "coinGecko":{
+    "api": "https://api.coingecko.com/api/v3/"
+  },
+  "paprika": {
+    "api": "https://coinpaprika1.p.rapidapi.com/exchanges",
+    "key": "f39087f61dmshe2da911c1edbf23p1f5237jsn229d19a3701d"
+
+  },
+  "cryptoIcons": {
+    "api": "https://cryptoicons.org/api/",
+    "api2": "https://icons.bitbot.tools/api"
+  }
+
+ 
+}

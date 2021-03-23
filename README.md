@@ -1,11 +1,13 @@
-# Trabalho_Laboratorial_TAM
+# Cryptocurrency monitoring application
 
-Para correr o código existente neste repositório:
+In ordder to run this application do as follows:
 
-1º Clonar repositório
+1º Clone repository
 
-2º Efetuar setup do ambiente de desenvolvimento React Native com Android Studio https://reactnative.dev/docs/environment-setup
+2º Setup React Native development environment with Android Studio https://reactnative.dev/docs/environment-setup
 
-3º npm install no diretório do projeto (onde se encontra o ficheiro package.json)
+3º npm install in project's directory (where package.json is located)
 
-4º npx react-native run-android
+4º Connect your android device via USB
+
+5º npx react-native run-android

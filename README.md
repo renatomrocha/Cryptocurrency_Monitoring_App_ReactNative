@@ -8,6 +8,6 @@ In ordder to run this application do as follows:
 
 3º npm install in project's directory (where package.json is located)
 
-4º Connect your android device via USB
+4º Connect your android device via USB (Or use Android Simulator)
 
 5º npx react-native run-android

@@ -1,6 +1,6 @@
 # Cryptocurrency monitoring application
 
-In ordder to run this application do as follows:
+In order to run this application do as follows:
 
 1º Clone repository
 
